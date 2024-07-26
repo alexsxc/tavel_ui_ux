@@ -50,7 +50,9 @@ const Hero = () => {
 						/>
 				</div>
 			</div>
-						{// TODO: доделать hero компонент}
+						{
+						// TODO: доделать hero компонент
+						}
 			<div className='relative flex flex-1 items-start'>
 				<div className='relative z-20 w-[268px] flex-col gap-8 rounded-3x1 bg-green-90 px-8 py-8'>
 						<div className='flex flex-col'>
